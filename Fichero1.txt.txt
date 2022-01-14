@@ -1,0 +1,277 @@
+abrimos cmd vamos a la carpeta
+instalamos git 
+
+
+
+
+
+todo hecho 
+
+
+
+Microsoft Windows [Versión 10.0.22000.376]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\TELMA>C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO
+"C:\Users\TELMA\Desktop\DASER\ENTORNO" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\TELMA>C:\Users\TELMA\Desktop\DASER\"ENTORNO DE DESAROLLO"
+"C:\Users\TELMA\Desktop\DASER\"ENTORNO DE DESAROLLO"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\TELMA>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA
+
+10/01/2022  18:05    <DIR>          .
+02/12/2021  02:56    <DIR>          ..
+09/12/2021  21:14    <DIR>          .android
+02/12/2021  21:06    <DIR>          .cache
+02/12/2021  21:07    <DIR>          .eclipse
+02/12/2021  03:55    <DIR>          .m2
+02/12/2021  15:57    <DIR>          .nbi
+20/12/2021  18:09    <DIR>          .p2
+10/01/2022  18:09    <DIR>          .ssh
+26/12/2021  18:40    <DIR>          .swt
+26/12/2021  19:24    <DIR>          .tizen
+13/01/2022  16:53    <DIR>          .VirtualBox
+04/12/2021  15:39    <DIR>          Apple
+02/12/2021  02:52    <DIR>          Contacts
+12/01/2022  18:23    <DIR>          Desktop
+12/01/2022  19:45    <DIR>          Documents
+14/01/2022  16:55    <DIR>          Downloads
+02/12/2021  02:52    <DIR>          Favorites
+09/12/2021  21:19    <DIR>          IdeaProjects
+02/12/2021  02:52    <DIR>          Links
+04/12/2021  15:37    <DIR>          Music
+10/01/2022  16:08    <DIR>          OneDrive
+02/12/2021  03:09    <DIR>          PCManger
+29/12/2021  15:15    <DIR>          Pictures
+26/12/2021  20:00    <DIR>          SamsungCertificate
+02/12/2021  02:52    <DIR>          Saved Games
+02/12/2021  02:56    <DIR>          Searches
+14/12/2021  16:09    <DIR>          Videos
+12/01/2022  19:40    <DIR>          VirtualBox VMs
+26/12/2021  19:23    <DIR>          workspace
+               0 archivos              0 bytes
+              30 dirs  86.106.107.904 bytes libres
+
+C:\Users\TELMA>cd desktop
+
+C:\Users\TELMA\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA\Desktop
+
+12/01/2022  18:23    <DIR>          .
+10/01/2022  18:05    <DIR>          ..
+24/12/2021  01:20             1.052 Adobe Photoshop 2021.lnk
+03/12/2021  17:54    <DIR>          DASER
+10/12/2021  17:09            11.982 Doc1.docx
+02/12/2021  03:45    <DIR>          eclipse-java-2021-09-R-win32-x86_64
+12/01/2022  18:18             7.649 employees.sql
+15/09/2021  15:54            68.634 HORARIO.png
+11/01/2022  19:53            33.098 logistics.sql
+11/01/2022  18:30             1.804 Nuevo Documento de texto (2).txt
+04/12/2021  15:42                36 Nuevo Documento de texto.txt
+11/01/2022  19:23               779 sakila.sql
+12/01/2022  18:23           188.715 sakilaprueba.sql
+02/12/2021  03:44    <DIR>          TODO
+12/01/2022  18:21           216.926 wordprueba.sql
+11/01/2022  19:23           244.003 world.sql
+              11 archivos        774.678 bytes
+               5 dirs  86.106.107.904 bytes libres
+
+C:\Users\TELMA\Desktop>cd daser
+
+C:\Users\TELMA\Desktop\DASER>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA\Desktop\DASER
+
+03/12/2021  17:54    <DIR>          .
+12/01/2022  18:23    <DIR>          ..
+03/12/2021  17:46             1.037 Atajos Eclipse.txt
+10/01/2022  18:27    <DIR>          BASE DE DATOS
+14/01/2022  17:08    <DIR>          ENTORNO DE DESAROLLO
+24/09/2021  20:00                21 examenes.txt
+15/09/2021  15:04           128.133 Horario.pdf
+02/12/2021  03:48    <DIR>          LENGUAJE DE MARCAS
+14/12/2021  17:58    <DIR>          PROGRAMACION
+21/10/2021  19:20             1.097 prueba de examen 2.sql
+02/12/2021  03:48    <DIR>          SISTEMASINFORMATICOS
+               4 archivos        130.288 bytes
+               7 dirs  86.106.173.440 bytes libres
+
+C:\Users\TELMA\Desktop\DASER>cd entorno de desarollo
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO
+
+14/01/2022  17:08    <DIR>          .
+03/12/2021  17:54    <DIR>          ..
+08/10/2021  16:10            15.687 1DAW_software_alekyan_Telman_Alekyan.docx
+16/11/2021  16:15           124.882 DAW_UML_ALEKYAN_TELMAN.mdj
+11/11/2021  23:31            23.079 DAW_UML_ALEKYAN_TELMAN.pdf
+22/10/2021  18:14            51.164 ejemplo de clases .rtf
+18/11/2021  21:22            47.456 Ejemplo interfaces.mdj
+21/09/2021  15:30        11.070.392 lenguajes_Alekyan_Telman.rtf
+02/12/2021  03:48    <DIR>          Model
+14/01/2022  17:07    <DIR>          Proebas git
+19/12/2021  22:25    <DIR>          SOFTWARE
+05/11/2021  17:52            45.553 Untitled.mdj
+               7 archivos     11.378.213 bytes
+               5 dirs  86.106.173.440 bytes libres
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO>cd pruebas git
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>git clone https://github.com/Telman2000/ed-pruebas-daw.git
+Cloning into 'ed-pruebas-daw'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git
+
+14/01/2022  17:15    <DIR>          .
+14/01/2022  17:09    <DIR>          ..
+14/01/2022  17:15    <DIR>          ed-pruebas-daw
+               0 archivos              0 bytes
+               3 dirs  86.104.592.384 bytes libres
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git>cd ed-pruebas-daw
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Fichero1.txt.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git add .
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git add Fichero1.txt.txt
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E626-0521
+
+ Directorio de C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw
+
+14/01/2022  17:19    <DIR>          .
+14/01/2022  17:15    <DIR>          ..
+14/01/2022  17:19                 0 Fichero1.txt.txt
+14/01/2022  17:15                41 README.md
+               2 archivos             41 bytes
+               2 dirs  86.091.210.752 bytes libres
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git add .
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Fichero1.txt.txt
+
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git commit -m "Nuevo Fichero 1"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'TELMA@TEM.(none)')
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw> git config --global tem5jan@gmail.com "Nuevo Fichero1"
+error: invalid key: tem5jan@gmail.com
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw> git config --global "tem5jan@gmail.com"
+error: invalid key: tem5jan@gmail.com
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw> git config --global user.email "tem5jan@gmail.com"
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Fichero1.txt.txt
+
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git commit -m "Nuevo Fichero 1"
+[main 0a63ba6] Nuevo Fichero 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Fichero1.txt.txt
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git push
+info: please complete authentication in your browser...
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 292 bytes | 292.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Telman2000/ed-pruebas-daw.git
+   4ab0959..0a63ba6  main -> main
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\TELMA\Desktop\DASER\ENTORNO DE DESAROLLO\Pruebas git\ed-pruebas-daw>
+
+
+
+
+
+
+
+
+
+
+
+token 
+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
