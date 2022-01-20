@@ -1,9 +1,11 @@
 esta es mi pruimera linea
 ahora la segunda 
+y la tercera
 
 
 todo hecho
 
+para decir quienes somos hacemos /////    git config --global user.email "tem5jan@gmail.com"
 
 Microsoft Windows [Versión 10.0.22000.376]
 (c) Microsoft Corporation. Todos los derechos reservados.
