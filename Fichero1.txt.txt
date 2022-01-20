@@ -1,12 +1,8 @@
-abrimos cmd vamos a la carpeta
-instalamos git 
+esta es mi pruimera linea
+ahora la segunda 
 
 
-
-
-
-todo hecho 
-
+todo hecho
 
 
 Microsoft Windows [Versión 10.0.22000.376]
