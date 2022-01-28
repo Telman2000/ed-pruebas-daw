@@ -1,0 +1,31 @@
+PASOS PARA GITHUB
+
+1 Git instalado
+2 Cuenta GitHub
+2 Creamos repro GitHub
+4 clonar en repro local 
+5crear el personal acces t. en Gituhub
+que es la contraseña.
+
+--------------------
+Comandos que hemos visto 
+
+git clone <urlRepro>
+git status 
+git add.  --> añadir a Stage 
+git commit -m "Mensaje"  ->para subir al servidor 
+git log  ----> para ver los comites
+git push ---> para subir al servidor 
+
+ramas
+git branch --> para crear y ver la ramas y comits  que temenos ..y el * es cual estamos posicionado
+git branch <nombre de la rama>
+git checkout <rama>   --> es para posicinarse en un sitio o en otro.   "rama"=nombre de la rama donde quieremos posicionar
+git merge --> unir el codigo con la rama
+
+
+---------------------
+
+
+
+
