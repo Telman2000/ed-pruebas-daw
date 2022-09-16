@@ -13,7 +13,7 @@ Comandos que hemos visto
 git clone <urlRepro>
 git status 
 git add.  --> añadir a Stage 
-git commit -m "Mensaje"  ->para subir al servidor 
+git commit -m "Mensaje"  ->
 git log  ----> para ver los comites
 git push ---> para subir al servidor 
 
